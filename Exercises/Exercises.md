@@ -3,24 +3,26 @@
 You Can Do It!
 
 ## Table of Contents
-1. Data Types
-2. Collections
-3. Iterations
-4. DML
-5. SOQL
-6. Triggers
-7. Class
-8. Test Class
-9. Debug Log
-10. Governor Limits
-11. Github
-12. IDE
-13. Google
+1. [Data Types](#data-types)
+2. [Collections](#collections)
+3. [Iterations](#iterations)
+4. [DML](#dml-execute-anonymous)
+5. [SOQL](#soql)
+6. [Triggers](#triggers)
+7. [Class](#class)
+8. [Test Class](#test-class-unit-test)
+9. [Debug Log](#debug-log)
+10. [Governor Limits](#governor-limits)
+11. [Github](#github)
+12. [IDE](#ide-intellij-or-vs-code)
+13. [Google](#google)
 
 ### Data Types
 1. Create 5 Strings
 2. Create 5 Integers
 3. Create 5 Dates
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### Collections
 1. List
@@ -30,54 +32,76 @@ You Can Do It!
 2. Set
 3. Map
 
+[[↑] Back to top](#salesforce-exercises)
+
 ### Iterations
-* Iterate over a list on previous slide & print out in System.Debug
-* Iterate over a list on previous slide & add to a new List
+1. Iterate over a list on previous slide & print out in System.Debug
+2. Iterate over a list on previous slide & add to a new List
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### DML (Execute Anonymous)
-* Insert 5 account records (individually)
-* Insert 5 contact records (individually)
-* Insert 3 case records (individually)
+1. Insert 5 account records (individually)
+2. Insert 5 contact records (individually)
+3. Insert 3 case records (individually)
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### SOQL
-* Query for 10 accounts using SOQL
-* Query for 10 Contacts
-* Query for 10 Accounts and their Contacts
+1. Query for 10 accounts using SOQL
+2. Query for 10 Contacts
+3. Query for 10 Accounts and their Contacts
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### Triggers
-Create a trigger that:
+1. Create a trigger that:
 * populates Description of every new Account record to be "Yes I can"
 * runs on Contact updates >>> creates a task for Contact owner with subject "call the contact asap"
 
+[[↑] Back to top](#salesforce-exercises)
+
 ### Class
-* Write a class that accepts a string, creates an Account, returns nothing
-* Write a class that accepts a string, creates an Account, returns ID of the account
-* Write a class that does not accept a string, creates an Account, returns nothing
-* Write a class that does not accept a string, creates an Account in a try catch, returns nothing
-* Write a static method. How do you call it?
+1. Write a class that accepts a string, creates an Account, returns nothing
+2. Write a class that accepts a string, creates an Account, returns ID of the account
+3. Write a class that does not accept a string, creates an Account, returns nothing
+4. Write a class that does not accept a string, creates an Account in a try catch, returns nothing
+5. Write a static method. How do you call it?
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### Test Class (unit test)
-* Create a test class for each of the above classes
-* Create a test class for the trigger
+1. Create a test class for each of the above classes
+2. Create a test class for the trigger
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### Debug Log
-* Insert 1 account record & analyze the debug log. What do you see?
-* Create a validation rule on account object
-  a. Insert 1 account & analyze the debug log
+1. Insert 1 account record & analyze the debug log. What do you see?
+2. Create a validation rule on account object
+   1. Insert 1 account & analyze the debug log
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### Governor Limits
-* Write a class that breaks a governor limit
-* Write a class that breaks another governor limit
-* Rewrite #1 so that it does not break gov limit
-* Rewrite #2 so that it does not break gov limit
+1. Write a class that breaks a governor limit
+2. Write a class that breaks another governor limit
+3. Rewrite #1 so that it does not break gov limit
+4. Rewrite #2 so that it does not break gov limit
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### Github
-* Push all your classes & triggers into your github repository
-* Create a new branch called “Branch2”
-* Checkout your master
+1. Push all your classes & triggers into your github repository
+2. Create a new branch called “Branch2”
+3. Checkout your master
+
+[[↑] Back to top](#salesforce-exercises)
 
 ### IDE (IntelliJ or VS Code)
-* Run 3 DML operations 
-* Run 3 Anonymous Apex operations
-* Look at Debug Log
-* Push changes to a class to github
+1. Run 3 DML operations 
+2. Run 3 Anonymous Apex operations
+3. Look at Debug Log
+4. Push changes to a class to github
+
+[[↑] Back to top](#salesforce-exercises)
