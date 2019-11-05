@@ -24,9 +24,9 @@ You Can Do It!
 
 ### Collections
 1. List
-  a.Add 3 integers
-  b.Add 3 strings
-  c.Practice 3 ways of creating a list
+   1. Add 3 integers
+   2. Add 3 strings
+   3. Practice 3 ways of creating a list
 2. Set
 3. Map
 
