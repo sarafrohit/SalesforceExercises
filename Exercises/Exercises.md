@@ -18,23 +18,23 @@ You Can Do It!
 13. Google
 
 ### Data Types
-* Create 5 Strings
-* Create 5 Integers
-* Create 5 Dates
+1. Create 5 Strings
+2. Create 5 Integers
+3. Create 5 Dates
 
 ### Collections
-* List
+1. List
   a.Add 3 integers
   b.Add 3 strings
   c.Practice 3 ways of creating a list
-* Set
-* Map
+2. Set
+3. Map
 
 ### Iterations
 * Iterate over a list on previous slide & print out in System.Debug
 * Iterate over a list on previous slide & add to a new List
 
-### DML (Execute Anonymoous)
+### DML (Execute Anonymous)
 * Insert 5 account records (individually)
 * Insert 5 contact records (individually)
 * Insert 3 case records (individually)
