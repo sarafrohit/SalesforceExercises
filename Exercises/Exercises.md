@@ -18,9 +18,10 @@ Repetition is a key learning aid because it helps transition a skill from the co
 13. [Google](#google)
 
 ### Data Types
-1. Create 5 Strings
-2. Create 5 Integers
-3. Create 5 Dates
+1. Create 5 Strings variables
+2. Create 5 Integers variables
+3. Create 5 Dates variables
+4. Create 5 Boolean variables
 
 [[↑] Back to top](#salesforce-exercises)
 
