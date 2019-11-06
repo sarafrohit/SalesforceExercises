@@ -1,6 +1,6 @@
 ## Salesforce Exercises
 
-You Can Do It!
+Repetition is a key learning aid because it helps transition a skill from the conscious to the subconscious. Through repetition, a skill is practiced and rehearsed over time and gradually becomes easier. Below are exercises to help make coding a habit.
 
 ## Table of Contents
 1. [Data Types](#data-types)
@@ -15,12 +15,13 @@ You Can Do It!
 10. [Governor Limits](#governor-limits)
 11. [Github](#github)
 12. [IDE](#ide-intellij-or-vs-code)
-13. [Google](#google)
+13. [Googling](#Googling-critical-skill-of-a-developer)
 
 ### Data Types
-1. Create 5 Strings
-2. Create 5 Integers
-3. Create 5 Dates
+1. Create 5 Strings variables
+2. Create 5 Integers variables
+3. Create 5 Dates variables
+4. Create 5 Boolean variables
 
 [[↑] Back to top](#salesforce-exercises)
 
@@ -28,27 +29,27 @@ You Can Do It!
 1. List
    1. Add 3 integers
    2. Add 3 strings
-   3. Practice 3 ways of creating a list
+   3. What are 3 ways of creating a list? Create a list in each way.
 2. Set
 3. Map
 
 [[↑] Back to top](#salesforce-exercises)
 
 ### Iterations
-1. Iterate over a list on previous slide & print out in System.Debug
+1. Iterate over a list on previous slide & print out each value in System.Debug
 2. Iterate over a list on previous slide & add to a new List
 
 [[↑] Back to top](#salesforce-exercises)
 
 ### DML (Execute Anonymous)
-1. Insert 5 account records (individually)
-2. Insert 5 contact records (individually)
-3. Insert 3 case records (individually)
+1. Insert 5 account records 
+2. Insert 5 contact records
+3. Insert 3 case records
 
 [[↑] Back to top](#salesforce-exercises)
 
 ### SOQL
-1. Query for 10 accounts using SOQL
+1. Query for 10 accounts
 2. Query for 10 Contacts
 3. Query for 10 Accounts and their Contacts
 
@@ -105,3 +106,12 @@ You Can Do It!
 4. Push changes to a class to github
 
 [[↑] Back to top](#salesforce-exercises)
+
+### Googling (critical skill of a developer)
+1. What is this error? "Unable to lock row"
+2. Can you delete a user?
+3. What is the average salary of a salesforce developer in Austin?
+4. What is the most popular Salesforce blog?
+5. Where can you find the abridged version of Winter 2020 release notes?
+
+
