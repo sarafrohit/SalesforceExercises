@@ -28,27 +28,27 @@ You Can Do It!
 1. List
    1. Add 3 integers
    2. Add 3 strings
-   3. Practice 3 ways of creating a list
+   3. What are 3 ways of creating a list? Create a list in each way.
 2. Set
 3. Map
 
 [[↑] Back to top](#salesforce-exercises)
 
 ### Iterations
-1. Iterate over a list on previous slide & print out in System.Debug
+1. Iterate over a list on previous slide & print out each value in System.Debug
 2. Iterate over a list on previous slide & add to a new List
 
 [[↑] Back to top](#salesforce-exercises)
 
 ### DML (Execute Anonymous)
-1. Insert 5 account records (individually)
-2. Insert 5 contact records (individually)
-3. Insert 3 case records (individually)
+1. Insert 5 account records 
+2. Insert 5 contact records
+3. Insert 3 case records
 
 [[↑] Back to top](#salesforce-exercises)
 
 ### SOQL
-1. Query for 10 accounts using SOQL
+1. Query for 10 accounts
 2. Query for 10 Contacts
 3. Query for 10 Accounts and their Contacts
 
