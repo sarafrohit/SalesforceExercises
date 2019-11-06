@@ -108,9 +108,10 @@ Repetition is a key learning aid because it helps transition a skill from the co
 [[↑] Back to top](#salesforce-exercises)
 
 ### Googling (critical skill of a developer)
-1. What is this error?
-2. What is this error?
-3. What is this error?
-4. What is this error?
+1. What is this error? "Unable to lock row"
+2. Can you delete a user?
+3. What is the average salary of a salesforce developer in Austin?
+4. What is the most popular Salesforce blog?
+5. Where can you find the abridged version of Winter 2020 release notes?
 
 
