@@ -15,7 +15,7 @@ Repetition is a key learning aid because it helps transition a skill from the co
 10. [Governor Limits](#governor-limits)
 11. [Github](#github)
 12. [IDE](#ide-intellij-or-vs-code)
-13. [Googling](#google)
+13. [Googling](#Googling)
 
 ### Data Types
 1. Create 5 Strings variables
