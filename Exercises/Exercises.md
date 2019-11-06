@@ -1,6 +1,6 @@
 ## Salesforce Exercises
 
-You Can Do It!
+Repetition is a key learning aid because it helps transition a skill from the conscious to the subconscious. Through repetition, a skill is practiced and rehearsed over time and gradually becomes easier. Below are exercises to help make coding a habit.
 
 ## Table of Contents
 1. [Data Types](#data-types)
@@ -105,3 +105,11 @@ You Can Do It!
 4. Push changes to a class to github
 
 [[↑] Back to top](#salesforce-exercises)
+
+### Googling (critical skill of a developer)
+1. What is this error?
+2. What is this error?
+3. What is this error?
+4. What is this error?
+
+
