@@ -1,7 +1,7 @@
 <h1 align="center">The Ultimate Salesforce Exercises Handbook</h1>
 
 <div align="center">
-    <img src="assets/sflogo.png" alt="Salesforce Interview Handbook" width="400"/>
+    <img src="https://github.com/usmanovs/salesforce-interview-handbook/blob/master/assets/sflogo.png" alt="Salesforce Interview Handbook" width="400"/>
     <br> 
     <em>Subscribe to my Youtube channel <a href="https://www.youtube.com/user/seyitbek"> Salesforce Chef</a> </em>
   </p>
@@ -17,7 +17,7 @@ You can get access to various salesforce questions, but very rarely you get acro
 
 ## Table of Contents
 
-1. [Exercises](/exercises/exercises.md)
+1. [Exercises](/Exercises/Exercises.md)
 
 ### Submitting New Exercises
 
